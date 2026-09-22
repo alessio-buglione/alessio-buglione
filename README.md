@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alessio Buglione 👋
 
-<!--
-**alessio-buglione/alessio-buglione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics student at the University of Florence (L-41), interested in Data Analysis and quantitative methods. 
 
-Here are some ideas to get you started:
+# 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+R - Python - SQL - Stata - Office package
+
+# 📊 Projects
+
+- Sport and Data Analytics: analysis of ACF Fiorentina 2025-2026
+- Time series analysis project
+- SQL Data Analysis
+- Python Data Analysis
+
+# 🎓 Education
+
+BSc in Statistics (L-41) | University of Florence - (currently)
