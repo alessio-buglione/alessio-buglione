@@ -10,9 +10,9 @@ R - Python - SQL - Stata - Office package
 
 # 📊 Projects
 
-- Sport and Data Analytics: analysis of ACF Fiorentina 2025-2026 (in progress)
+- Sport and Data Analytics: analysis of ACF Fiorentina 2025-2026 (work in progress)
 - Time series analysis project
-
+- Multivariate Analysis project
 
 # 🎓 Education
 
