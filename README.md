@@ -5,7 +5,7 @@ I'm a Statistics student at the University of Florence (L-41), interested in Dat
 
 # 🛠️ Skills
 
-R - Python - SQL - Stata - Office package
+R - Python - SQL - Stata - Excel- Forecasting
 
 
 # 📊 Projects
